@@ -1,0 +1,69 @@
+- name: en directo
+  year: 1998
+  label: rítmo & compás
+  cover: /img/endirecto.png
+  price: 10
+  tracks:
+    - the right time/black or white
+    - meltodown
+    - bohemian rapsody
+    - i've got you
+    - unchaine my heart
+    - wish for the folks
+    - unchaine (bis)
+    - lágrimas de cocodrilo
+    - califormia dreamin'
+    - que nadie sepa mi sufrir
+    - it's not unusual
+    - crocodile rock
+    - croco's eyes
+    - my way
+    - baby elephant walk
+    - peter gun
+    - un beso y una flor
+
+- name: algo hay
+  year: 2002
+  label: 
+  cover: /img/algohay.png
+  price: 10
+  tracks:
+    - think
+    - roxane
+    - bicycle race
+    - banana calypso
+    - jesus blues
+    - sargent pepper's lonley heart club band
+    - mama told me not to come
+    - sir duke
+    - la gravedad del asunto
+    - highway to hell
+    - no ho se
+    - oda al calamar
+    - history repeating
+    - little green bag
+    - got to get you into my life
+    - satisfaction
+
+- name: es mejor dejarlo como está
+  year: 2011
+  label: 
+  cover: /img/esmejor.png
+  price: 10
+  tracks:
+    - reach out i'll be there
+    - i want you back
+    - te acuerdas maría
+    - somebody to love
+    - waterproof
+    - mfm 477
+    - pa'todo el año
+    - cna't take my eyes off of you
+    - you are the sunshine of my life
+    - don't stop me now
+    - para qué seguir así
+    - what ever you want
+    - on brodway
+    - libre
+    - angelina zooma-zooma
+    - i got you (i feel good)
