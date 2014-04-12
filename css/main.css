@@ -30,7 +30,7 @@ nav ul {
 
 nav ul li {
     float: left;
-    width: 100px;
+    padding: 0px 10px;
 }
 
 /* Hero */
@@ -67,6 +67,21 @@ table td {
 img.cover {
     width: 192px;
     height: 192px:
+}
+
+/* Cuando tocan */
+.cuandotocan .month {
+    text-indent: 40px;
+    font-weight: bold;
+}
+
+.cuandotocan .day {
+    width: 30px;
+    text-align: right;
+}
+
+.cuandotocan .si {
+    color: #f60;
 }
 
 /* Footer */

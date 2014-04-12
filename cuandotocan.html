@@ -1,0 +1,33 @@
+---
+layout: default
+title: cuando tocan
+---
+
+<img class="hero" src="{{ site.url }}/img/cuandotocanhero.png" alt="Cuando tocan">
+
+<span>
+    {% for year in site.data.conciertos %}
+        <a href="#year-{{ year.year }}">{{ year.year }}</a>&nbsp;
+    {% endfor %}
+</span>
+
+{% for year in site.data.conciertos %}
+<h2 class="align-left" id="year-{{ year.year }}">{{ year.year }}</h2>
+
+<table class="cuandotocan">
+    {% for month in year.months %}
+        <tr>
+            <td class="month" colspan="2">{{ month.month }}</td>
+        </tr>
+        {% for day in month.days %}
+            {% for show in day.shows %}
+                <tr>
+                    <td class="day">{{ day.day }}</td>
+                    <td class="{{ show.done }}">{{ show.name }}</td>
+                </tr>
+            {% endfor %}
+        {% endfor %}
+    {% endfor %}
+</table>
+
+{% endfor %}
