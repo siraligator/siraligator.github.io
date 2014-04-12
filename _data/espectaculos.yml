@@ -1,0 +1,31 @@
+- name: siraligator
+  des: rock, pop & soul unplugged
+  img: /img/portadadisco1.png
+
+- name: tube tuba por un tubo
+  des: cuento escénico de fernando palacios
+  img: /img/tuvetubacover.png
+
+- name: metal ligero
+  des: desde el ars antiqva hasta la piquer
+  img: /img/metalligerocover.png
+
+- name: sac + banda
+  des: concierto con banda
+  img: /img/sacbandacover.png
+
+- name: a+b connection
+  des: los aligators + los bravenders
+  img: /img/abconnection.png
+
+- name: + los imposibles
+  des: el mejor sixty's beat
+  img: /img/imposibles.png
+
+- name: acarrassats friends project
+  des: tocando con amigos
+  img: /img/acarrassats.png
+
+- name: bbc
+  des: bodas, bautizos y comuniones
+  img: /img/bbccover.png
