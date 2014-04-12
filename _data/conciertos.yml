@@ -1,0 +1,88 @@
+- year: 1996
+  months:
+    - month: diciembre
+      days:
+        - day: 16
+          shows:
+            - name: Aquí Arriba. Alcalá de Henares
+              done: si
+    - month: noviembre
+      days:
+        - day: 28
+          shows:
+            - name: Aquí Arriba. Alcalá de Henares
+              done: si
+        - day: 20
+          shows:
+            - name: Auditorio Manuel de Falla. RCSMM.
+              done: si
+        - day: 14
+          shows:
+            - name: café La Unión. Madrid.
+              done: si
+        - day: 6
+          shows:
+            - name: café-Concierto La Fídula / Telediario 2
+              done: si
+    - month: agosto
+      days:
+        - day: 2
+          shows:
+            - name: Dust. Llíria. (V)
+              done: si
+        - day: 1
+          shows:
+            - name: VI Curs int. de música de Castelló de la Ribera. (V)
+              done: si
+    - month: julio
+      days:
+        - day: 31
+          shows:
+            - name: Traffic. Polinya de Xuquer 1996 07 31
+              done: si
+    - month: junio
+      days:
+        - day: 8
+          shows:
+            - name: Primer encuentro mundial de aligators. Pub “Gowlins” Lliría (V)
+              done: si
+        - day: 3
+          shows:
+            - name: “party a gogo” disco de Los Imposibles Estudios Animal Records
+              done: si
+    - month: mayo
+      days:
+        - day: 30
+          shows:
+            - name: RCSMM Auditorio Manuel de Falla. RCSMM.
+              done: si
+        - day: 19
+          shows:
+            - name: Feria de la Música’1996. Pabellón de cristal de la Casa de Campo. Madrid
+              done: si
+        - day: 18
+          shows:
+            - name: Feria de la Música’1996. Video para IMEFE Casa de Campo. Madrid
+              done: si
+    - month: abril
+      days:
+        - day: 25
+          shows:
+            - name: presentación del "arrós al forn" + mario. café la unión
+              done: si
+    - month: febrero
+      days:
+        - day: 10
+          shows:
+            - name: grabación de la maqueta. estudios box, madrid
+              done: si
+    - month: enero
+      days:
+        - day: 28
+          shows:
+            - name: el caray
+              done: si
+        - day: 15
+          shows:
+            - name: concierto de navidad cuarteto caray + dani. café la unión, madrid
+              done: si
