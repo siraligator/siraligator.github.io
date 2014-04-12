@@ -1,0 +1,14 @@
+---
+---
+/* TEAM */
+    Elias Hernandis
+    Contact: eliashernandis [at] gmail.com
+    Twitter: @eliashernandis
+    From: Madrid, Spain
+
+/* SITE */
+    Last update: {{ site.time }}
+    Language: Spanish / English
+    Doctype: HTML5
+    Tecknology: Jekyll, Normalize, Gridism
+    IDE: Vim

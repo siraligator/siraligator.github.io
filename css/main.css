@@ -1,0 +1,75 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navbar and Header */
+.topbar {
+    padding: 10px;
+    border-bottom: 1px solid #fff;
+}
+
+header .brand {
+    margin: 0px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+    width: 100px;
+}
+
+/* Hero */
+.hero {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+}
+
+@media screen and (max-width: 568px) {
+    .hero {
+        width: 100%;
+    }
+}
+
+/* Content */
+section.content p {
+    text-align: justify;
+}
+
+section.content img {
+    margin: 0px auto;
+    text-align: center;
+}
+
+table {
+    text-align: left;
+}
+
+table td {
+    padding: 5px;
+}
+
+img.cover {
+    width: 192px;
+    height: 192px:
+}
+
+/* Footer */
+footer {
+    border-top: 1px solid #fff;
+}

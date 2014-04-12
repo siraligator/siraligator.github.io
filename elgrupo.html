@@ -1,0 +1,25 @@
+---
+layout: default
+title: el grupo
+---
+
+<img class="hero" src="{{ site.url }}/img/elgrupo.png" alt="Foto en blanco y negro del grupo">
+
+<div class="grid">
+    <div class="unit golden-small">
+        <table>
+            <tbody>
+                {% for show in site.data.espectaculos %}
+                    <tr>
+                        <td><img src="{{ site.url }}{{ show.img }}" alt="{{ show.name }}"></td>
+                        <td><b>{{ show.name }}</b><br><i>{{ show.des }}<i></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="unit golden-large">
+        <p>Un trombón se parece a un cocodrilo, al mismo tiempo que, a los primeros blancos que cantaban blues se les llamaba alligators... La compañía del señor lagarto, THE SIR ALIGATOR'S COMPANY es un grupo que se acerca al rock, pop y soul desde su formación clásica. Los trombones y las tubas cambiamos por completo nuestro rol tradicional al adaptar temas de Mickael Jackson, Tom Jones, Henri Mancini, Nino Bravo, Fred Mercury, Joe Cocker, Elton John, Nino Rota , Frank Sinatra, James Brown, Stevie Wonder, The Mamas & The Papas, Lester Bowie, etc.. Desde 1995 experimentamos nuevas formas de llegar a otros públicos que nunca habían escuchado a los trombones y las tubas: Festival de Música Contemporánea de Alicante en 1998, “Conciertos de la 2” (RTVE), Congreso 2001 de la UER en Madrid, VI Festival de Jazz de Ezcaray, giras por València, Galicia, Castilla-La Mancha, Castilla-León, el País Vasco y la Comunidad de Madrid, programas de televisión, numerosos conservatorios españoles, cursos Internacionales de Música como el de Riva de Garda (Italia), clubes de jazz, conciertos pedagógicos para niños... En 1998 grabaron su primer disco “En directo”. Después en 2005, llegó su segundo disco, grabado en estudio: “Algo Hay” es otra recopilación de temas. Algunos, propios del grupo y otros, versiones muy particulares de canciones que han emocionado a sus componentes. Hoy, después de quince años de buenas experiencias terminamos de grabar, en directo nuestro tercer disco: “ES MEJOR DEJARLO COMO ESTÁ”. Mientras, seguimos trabajando por dar a conocer lo que se puede hacer con estos instrumentos, mucha imaginación y más ganas.</p>
+    </div>
+</div>

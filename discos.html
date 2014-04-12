@@ -1,0 +1,25 @@
+---
+layout: default
+title: discos
+---
+
+{% for disco in site.data.discos %}
+    <div class="grid align-left">
+        <div class="unit golden-small pull-right align-right">
+            <p class="pull-right">
+                the sir aligator's company<br>
+                <b>{{ disco.name }}</b><br>
+                año {{ disco.year }}, {{ disco.label }}
+            </p>
+
+            <img class="cover" src="{{ site.url }}{{ disco.cover }}" alt="{{ disco.name }}">
+        </div>
+        <div class="unit half pull-right">
+            <ol>
+                {% for track in disco.tracks %}
+                    <li>{{ track }}</li>
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+{% endfor %}
