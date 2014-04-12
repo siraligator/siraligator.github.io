@@ -5,6 +5,12 @@ title: cuando tocan
 
 <img class="hero" src="{{ site.url }}/img/cuandotocanhero.png" alt="Cuando tocan">
 
+<span>
+    {% for year in site.data.conciertos %}
+        <a href="#year-{{ year.year }}">{{ year.year }}</a>&nbsp;
+    {% endfor %}
+</span>
+
 {% for year in site.data.conciertos %}
 <h2 id="year-{{ year.year }}">{{ year.year }}</h2>
 
