@@ -1,3 +1,68 @@
+- year: 1997
+  months:
+    - month: agosto
+      days:
+        - day: 4
+          shows:
+            - name: VII Curs int. de música de Castelló de la Ribera. (V).
+              done: si
+    - month: julio
+      days:
+        - day: 19
+          shows:
+            - name: IV Curso int. de música de Cocentàina. Palau Comtal de Cocentàina.
+              done: si
+        - day: 8
+          shows:
+            - name: Conferencia int. de tubas, “Verso il milennio” Riva di Garda. Italia.
+              done: si
+    - month: mayo
+      days:
+        - day: 16
+          shows:
+            - name: despedida de soltero de Elies y Lourdes. Café La Unión. Madrid.
+              done: si
+    - month: abril
+      days:
+        - day: 11
+          shows:
+            - name: pedagógico en el colegio Virgen del Bosque (Villaviciosa)
+              done: si
+    - month: marzo
+      days:
+        - day: 21
+          shows:
+            - name: La Fontana de Oro. Madrid con Sam Pilafian
+              done: si
+        - day: 14
+          shows:
+            - name: St. Patrick en Madrid. Salón de Columnas del Círculo de BBAA. Madrid
+              done: si
+        - day: 5
+          shows:
+            - name: La Fontana de Oro. Madrid
+              done: si
+        - day: 2
+          shows:
+            - name: Video para C+. RCSMM
+              done: si
+    - month: febrero
+      days:
+        - day: 8
+          shows:
+            - name: concierto Benéfico por el Zaire. Auditorio de Conde Duque. Madrid.
+              done: si
+    - month: enero
+      days:
+        - day: 15
+          shows:
+            - name: café-Concierto La Fídula
+              done: si
+        - day: 13
+          shows:
+            - name: maqueta de Los Semprini Estudios Animal Records
+              done: si
+
 - year: 1996
   months:
     - month: diciembre
