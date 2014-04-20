@@ -1,3 +1,171 @@
+- year: 1998
+  months:
+    - month: diciembre
+      days:
+        - day: 18
+          shows:
+            - name: casa de la Cultura Guadassuar (València)
+              done: si
+        - day: 7
+          shows:
+            - name: Tuve Tuba por un tubo. Iglesia de Villaviciosa de Odón. (Madrid)
+              done: si
+    - month: noviembre
+      days:
+        - day: 13
+          shows:
+            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+              done: si
+        - day: 12
+          shows:
+            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+              done: si
+    - month: octubre
+      days:
+        - day: 28
+          shows:
+            - name: café La Unión. Madrid.
+              done: si
+        - day: 22
+          shows:
+            - name: inauguración de EneBa EneBa, Jacometrezzo, Madrid
+              done: si
+        - day: 17
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+        - day: 16
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+        - day: 15
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+    - month: septiembre
+      days:
+        - day: 24
+          shows:
+            - name: Tuve Tuba por un tubo. Fest. Int. de Música Cont. d’Alacant. T. Principal
+              done: si
+        - day: 22
+          shows:
+            - name: Tuve Tuba por un tubo. Ensayo gen. Aud. T. L. De Victoria del RCSMM.
+              done: si
+    - month: julio
+      days:
+        - day: 26
+          shows:
+            - name: II Verbena de Santiago. Plaza de Santiago. Madrid. 1998 07 26
+              done: si
+        - day: 19
+          shows:
+            - name: V Curso int. de música de Cocentàina. Palau Comtal de Cocentàina. (A)
+              done: si
+        - day: 14
+          shows:
+            - name: I semana de la música en Talavera. (TO)
+              done: si
+    - month: junio
+      days:
+        - day: 27
+          shows:
+            - name: Clausura del curso universitario 1997-98. R.U. Alonso de Ojeda. Cuenca.
+              done: si
+    - month: mayo
+      days:
+        - day: 28
+          shows:
+            - name: VII decena da música do Ferrol Teatro do Ferrol (C)
+              done: si
+        - day: 28
+          shows:
+            - name: II matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+              done: si
+        - day: 28
+          shows:
+            - name: I matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+              done: si
+        - day: 21
+          shows:
+            - name: RCSMM. “El Retorno” Real Conservatorio Superior de Música de Madrid
+              done: si
+    - month: abril
+      days:
+        - day: 2
+          shows:
+            - name: Clinic Jupiter/ Meinl Euromúsica- Garijo. Alcorcón.
+              done: si
+        - day: 1
+          shows:
+            - name: Concierto/ Cena con Euromúsica-GARIJO Hotel Holiday Inn. Madrid.
+              done: si
+
+- year: 1997
+  months:
+    - month: agosto
+      days:
+        - day: 4
+          shows:
+            - name: VII Curs int. de música de Castelló de la Ribera. (V).
+              done: si
+    - month: julio
+      days:
+        - day: 19
+          shows:
+            - name: IV Curso int. de música de Cocentàina. Palau Comtal de Cocentàina.
+              done: si
+        - day: 8
+          shows:
+            - name: Conferencia int. de tubas, “Verso il milennio” Riva di Garda. Italia.
+              done: si
+    - month: mayo
+      days:
+        - day: 16
+          shows:
+            - name: despedida de soltero de Elies y Lourdes. Café La Unión. Madrid.
+              done: si
+    - month: abril
+      days:
+        - day: 11
+          shows:
+            - name: pedagógico en el colegio Virgen del Bosque (Villaviciosa)
+              done: si
+    - month: marzo
+      days:
+        - day: 21
+          shows:
+            - name: La Fontana de Oro. Madrid con Sam Pilafian
+              done: si
+        - day: 14
+          shows:
+            - name: St. Patrick en Madrid. Salón de Columnas del Círculo de BBAA. Madrid
+              done: si
+        - day: 5
+          shows:
+            - name: La Fontana de Oro. Madrid
+              done: si
+        - day: 2
+          shows:
+            - name: Video para C+. RCSMM
+              done: si
+    - month: febrero
+      days:
+        - day: 8
+          shows:
+            - name: concierto Benéfico por el Zaire. Auditorio de Conde Duque. Madrid.
+              done: si
+    - month: enero
+      days:
+        - day: 15
+          shows:
+            - name: café-Concierto La Fídula
+              done: si
+        - day: 13
+          shows:
+            - name: maqueta de Los Semprini Estudios Animal Records
+              done: si
+
 - year: 1996
   months:
     - month: diciembre
