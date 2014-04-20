@@ -1,3 +1,106 @@
+- year: 1998
+  months:
+    - month: diciembre
+      days:
+        - day: 18
+          shows:
+            - name: casa de la Cultura Guadassuar (València)
+              done: si
+        - day: 7
+          shows:
+            - name: Tuve Tuba por un tubo. Iglesia de Villaviciosa de Odón. (Madrid)
+              done: si
+    - month: noviembre
+      days:
+        - day: 13
+          shows:
+            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+              done: si
+        - day: 12
+          shows:
+            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+              done: si
+    - month: octubre
+      days:
+        - day: 28
+          shows:
+            - name: café La Unión. Madrid.
+              done: si
+        - day: 22
+          shows:
+            - name: inauguración de EneBa EneBa, Jacometrezzo, Madrid
+              done: si
+        - day: 17
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+        - day: 16
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+        - day: 15
+          shows:
+            - name: Clamores Jazz. Madrid
+              done: si
+    - month: septiembre
+      days:
+        - day: 24
+          shows:
+            - name: Tuve Tuba por un tubo. Fest. Int. de Música Cont. d’Alacant. T. Principal
+              done: si
+        - day: 22
+          shows:
+            - name: Tuve Tuba por un tubo. Ensayo gen. Aud. T. L. De Victoria del RCSMM.
+              done: si
+    - month: julio
+      days:
+        - day: 26
+          shows:
+            - name: II Verbena de Santiago. Plaza de Santiago. Madrid. 1998 07 26
+              done: si
+        - day: 19
+          shows:
+            - name: V Curso int. de música de Cocentàina. Palau Comtal de Cocentàina. (A)
+              done: si
+        - day: 14
+          shows:
+            - name: I semana de la música en Talavera. (TO)
+              done: si
+    - month: junio
+      days:
+        - day: 27
+          shows:
+            - name: Clausura del curso universitario 1997-98. R.U. Alonso de Ojeda. Cuenca.
+              done: si
+    - month: mayo
+      days:
+        - day: 28
+          shows:
+            - name: VII decena da música do Ferrol Teatro do Ferrol (C)
+              done: si
+        - day: 28
+          shows:
+            - name: II matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+              done: si
+        - day: 28
+          shows:
+            - name: I matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+              done: si
+        - day: 21
+          shows:
+            - name: RCSMM. “El Retorno” Real Conservatorio Superior de Música de Madrid
+              done: si
+    - month: abril
+      days:
+        - day: 2
+          shows:
+            - name: Clinic Jupiter/ Meinl Euromúsica- Garijo. Alcorcón.
+              done: si
+        - day: 1
+          shows:
+            - name: Concierto/ Cena con Euromúsica-GARIJO Hotel Holiday Inn. Madrid.
+              done: si
+
 - year: 1997
   months:
     - month: agosto
