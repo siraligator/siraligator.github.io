@@ -4,7 +4,7 @@
       days:
         - day: 6, 7, 10, 12, 13, 14
           shows:
-            - name: World Basketball Championship Spain \'14
+            - name: World Basketball Championship Spain '14
               done: no
     - month: agosto
       days:
@@ -31,6 +31,126 @@
         - day: 13
           shows:
             - name: Móstoles
+              done: si
+- year: 2013
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2012
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2011
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2010
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2009
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2008
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2007
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2006
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2005
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2004
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2003
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2002
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2001
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 2000
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
+              done: si
+- year: 1999
+  months:
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: Pendiente de completar
               done: si
 - year: 1998
   months:
