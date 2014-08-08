@@ -1,3 +1,37 @@
+- year: 2014
+  months:
+    - month: septiembre
+      days:
+        - day: 6, 7, 10, 12, 13, 14
+          shows:
+            - name: World Basketball Championship Spain \'14
+              done: no
+    - month: agosto
+      days:
+        - day: 9
+          shows:
+            - name: Albalat de la Ribera V. Festes d'Agost
+              done: no
+    - month: julio
+      days:
+        - day: 18
+          shows:
+            - name: Biar A. Jornadas trombonísticas 2i2q
+              done: si
+    - month: junio
+      days:
+        - day: 15
+          shows:
+            - name: Guadalix de la Sierra M. Sound imagination.
+              done: si
+        - day: 14
+          shows:
+            - name: Majadahonda
+              done: si
+        - day: 13
+          shows:
+            - name: Móstoles
+              done: si
 - year: 1998
   months:
     - month: diciembre
