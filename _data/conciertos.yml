@@ -11,7 +11,7 @@
         - day: 9
           shows:
             - name: Albalat de la Ribera V. Festes d'Agost
-              done: no
+              done: si
     - month: julio
       days:
         - day: 18
