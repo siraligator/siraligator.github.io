@@ -1,11 +1,39 @@
+- year: 2015
+  months:
+    - month: febrero
+      days:
+        - day: 16
+          shows:
+            - name: c/ ceuta, 8, madrid
+              done: no  
+  months:
+    - month: enero
+      days:
+        - day: 16
+          shows:
+            - name: el intruso. c/ augusto figueroa 3, madrid
+              done: no
+  months:
+    - month: enero
+      days:
+        - day: 10
+          shows:
+            - name: fira de guadassuar (V)
+              done: no
 - year: 2014
   months:
+    - month: noviembre
+      days:
+        - day: 19
+          shows:
+            - name: semana de sta. cecilia en el conservatorio de leganés (M), 20horas
+              done: no
     - month: septiembre
       days:
         - day: 6, 7, 10, 12, 13, 14
           shows:
             - name: World Basketball Championship Spain '14
-              done: no
+              done: si
     - month: agosto
       days:
         - day: 9
