@@ -6,14 +6,12 @@
           shows:
             - name: c/ ceuta, 8, madrid
               done: no  
-  months:
     - month: enero
       days:
         - day: 16
           shows:
             - name: el intruso. c/ augusto figueroa 3, madrid
               done: no
-  months:
     - month: enero
       days:
         - day: 10
