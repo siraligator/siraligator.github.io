@@ -197,19 +197,20 @@
             - name: lille (FR)
               done: si    
 - year: 2010
-  - month: octubre
+  months:
+    - month: octubre
       days:
         - day: 16
           shows:
             - name: tempo Club Madrid
               done: si
-  - month: julio
+    - month: julio
       days:
         - day: 08
           shows:
             - name: Zumaia (Gi)
               done: si
-  - month: julio
+    - month: julio
       days:
         - day: 30
           shows:
@@ -227,13 +228,13 @@
           shows:
             - name: rafelguaraf (V)
               done: si
-  - month: junio
+    - month: junio
       days:
         - day: 19
           shows:
             - name: Xabia (A)
               done: si
-  - month: mayo
+    - month: mayo
       days:
         - day: 29
           shows:
@@ -247,13 +248,13 @@
           shows:
             - name: Barbú, Madrid
               done: si
-  - month: marzo
+    - month: marzo
       days:
         - day: 04
           shows:
             - name: Lemon, Madrid
               done: si
-  - month: enero
+    - month: enero
       days:
         - day: 29
           shows:
@@ -388,7 +389,7 @@
               done: si
         - day: 10-11
           shows:
-            - name: SAC and Bravenders: A+B connection, Galileo Galilei Madrid
+            - name: "SAC and Bravenders: A+B connection, Galileo Galilei Madrid"
               done: si
         - day: 07
           shows:
