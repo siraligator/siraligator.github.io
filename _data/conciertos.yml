@@ -388,7 +388,7 @@
               done: si
         - day: 10-11
           shows:
-            - name: SAC & Bravenders: A+B connection, Galileo Galilei Madrid
+            - name: SAC and Bravenders: A+B connection, Galileo Galilei Madrid
               done: si
         - day: 07
           shows:
@@ -414,7 +414,7 @@
               done: si
 - year: 2006
   months:
-      - month: noviembre
+    - month: noviembre
       days:
         - day: 13
           shows:
@@ -424,7 +424,7 @@
           shows:
             - name: la Unió. Llíria
               done: si
-      - month: noviembre
+    - month: noviembre
       days:
         - day: 25
           shows:
@@ -434,7 +434,7 @@
           shows:
             - name: SAC a banda. Banda Municipal de Vitoria
               done: si
-     - month: octubre
+    - month: octubre
       days:
         - day: 23
           shows:
