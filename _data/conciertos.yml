@@ -22,6 +22,12 @@
               done: no
     - month: septiembre
       days:
+        - day: 15
+          shows:
+            - name: Azotea del Circulo de BBAA. Alcalá, 42. Madrid
+              done: si
+    - month: septiembre
+      days:
         - day: 6, 7, 10, 12, 13, 14
           shows:
             - name: World Basketball Championship Spain '14
@@ -38,6 +44,12 @@
           shows:
             - name: Biar A. Jornadas trombonísticas 2i2q
               done: si
+    - month: julio
+      days:
+        - day: 05
+          shows:
+            - name: Salas de los Infantes
+              done: si          
     - month: junio
       days:
         - day: 15
@@ -54,20 +66,90 @@
               done: si
 - year: 2013
   months:
-    - month:
+    - month: noviembre
       days:
-        - day: 
+        - day: 16
           shows:
-            - name: Pendiente de completar
-              done: si
+            - name: Ciudad Rodrigo
+              done: si    
+    - month: noviembre
+      days:
+        - day: 15
+          shows:
+            - name: Galileo Galilei. Galileo, 100. Madrid
+              done: si    
+    - month: septiembre
+      days:
+        - day: 28
+          shows:
+            - name: Satisfaction R&Rbar. Madrid
+              done: si 
+    - month: julio
+      days:
+        - day: 04
+          shows:
+            - name: SBALZ Alzira (V)
+              done: si    
+    - month: mayo
+      days:
+        - day: 14
+          shows:
+            - name: Tempo Club. Madrid
+              done: si   
+    - month: abril
+      days:
+        - day: 20
+          shows:
+            - name: Abierto Bar, Tarancón (CU)
+              done: si    
+        - day: 06
+          shows:
+            - name: Sala Oxido, Guadalajara
+              done: si  
 - year: 2012
   months:
-    - month:
+    - month: noviembre
       days:
-        - day: 
+        - day: 03
           shows:
-            - name: Pendiente de completar
+            - name: tempo Club madrid 
               done: si
+    - month: octubre
+      days:
+        - day: 06
+          shows:
+            - name: Leganés 
+              done: si
+    - month: julio
+      days:
+        - day: 07
+          shows:
+            - name: Banyeres de Mariola (A) 
+              done: si
+    - month: junio
+      days:
+        - day: 19
+          shows:
+            - name: Fujitsu, Ifema Madrid 
+              done: si
+    - month: junio
+      days:
+        - day: 26
+          shows:
+            - name: Fujitsu, palau de congressos BCN 
+              done: si
+    - month: mayo
+      days:
+        - day: 23
+          shows:
+            - name: Alegria de Iruña, Pamplona
+              done: si    
+    - month: mayo
+      days:
+        - day: 26
+          shows:
+            - name: clermont ferrand (F)
+              done: si    
 - year: 2011
   months:
     - month:
