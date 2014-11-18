@@ -12,12 +12,6 @@
           shows:
             - name: el intruso. c/ augusto figueroa 3, madrid
               done: no
-    - month: enero
-      days:
-        - day: 10
-          shows:
-            - name: fira de guadassuar (V)
-              done: no
 - year: 2014
   months:
     - month: noviembre
