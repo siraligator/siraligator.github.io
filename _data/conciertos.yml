@@ -4,7 +4,7 @@
       days:
         - day: 16
           shows:
-            - name: c/ ceuta, 8, madrid
+            - name: Conservatorio J. Turina c/ ceuta, 8, madrid
               done: no  
     - month: enero
       days:
@@ -20,6 +20,12 @@
           shows:
             - name: semana de sta. cecilia en el conservatorio de leganés (M), 20horas
               done: no
+    - month: octubre
+      days:
+        - day: 8-11
+          shows:
+            - name: Music China '2014. Shanghai (CHI)
+              done: si
     - month: septiembre
       days:
         - day: 15
