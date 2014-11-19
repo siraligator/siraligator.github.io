@@ -1,5 +1,15 @@
 - year: 2015
   months:
+    - month: julio
+      days:
+        - day: 08
+          shows:
+            - name: ITF'2015 València. 23:59h Hall del Auditori de La Rambleta. Bulevar Sur esq. Pío IX (St. Marcel·li)
+              done: no
+        - day: 05
+          shows:
+            - name: 3e rencontre nationalle de la Association des trombonistes françaises. Marseille (FR)
+              done: no
     - month: febrero
       days:
         - day: 16
