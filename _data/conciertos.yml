@@ -29,7 +29,7 @@
         - day: 19
           shows:
             - name: semana de sta. cecilia en el conservatorio de leganés (M), 20horas
-              done: no
+              done: si
     - month: octubre
       days:
         - day: 8-11
