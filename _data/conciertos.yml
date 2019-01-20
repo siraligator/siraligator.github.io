@@ -625,6 +625,79 @@
           shows:
             - name: "Pendiente de completar"
               done: si
+    - month: mayo
+      days: 
+        - day: 26
+          shows:
+            - name: Alcázar de San Juan. (CR)
+              done: si
+        - day: 19
+          shows:
+            - name: Villanueva de la Reina. (J)
+              done: si
+        - day: 06
+          shows:
+            - name: Tuve Tuba por un Tubo. Getafe (M)
+              done: si
+    - month: abril
+      days:
+        - day: 08
+          shows:
+            - name: Tuve Tuba por un Tubo. T. Coliseo carlos III. San Lorenzo del Escorial (M)
+              done: si
+        - day: 07
+          shows:
+            - name: Sant Vicent del Raspeig (A)
+              done: si
+        - day: 03
+          shows:
+            - name: Real Conservatorio Superior de Música de Madrid
+              done: si
+    - month: marzo
+      days:
+        - day: 31
+          shows:
+            - name: Tuve Tuba por un Tubo. Auditorio de Colmenar Viejo (M)
+              done: si
+        - day: 03
+          shows:
+            - name: Tuve Tuba por un Tubo. Auditorio de Pinto (M)
+              done: si
+    - month: febrero
+      days:
+        - day: 18
+          shows:
+            - name: Tuve Tuba por un Tubo. Teatro Lara de Madrid
+              done: si
+        - day: 16
+          shows:
+            - name: Cafe-Teatro El Figaro. Toledo
+              done: si
+          shows:
+            - name: Tuve Tuba por un Tubo. Teatro Lara de Madrid
+              done: si
+        - day: 14
+          shows: 
+            - name: Dip.de malaga en ARCO. Circulo de BBAA de Madrid
+              done: si
+        - day: 11
+          shows:
+            - name: Tuve Tuba por un Tubo. Teatro Lara de Madrid
+              done: si
+        - day: 10
+          shows:
+            - name: Tuve Tuba por un Tubo. Valdemoro (M)
+              done: si
+        - day: 04
+          shows:
+            - name: Tuve Tuba por un Tubo. Majadahonda (M)
+              done: si
+    - month: enero
+      days:
+        - day: 12
+          shows:
+            - name: Concierto Fundación de Ayuda a la Drogadicción. Teatro Monumental de Madrid
+              done: si
 - year: 2000
   months:
     - month:
