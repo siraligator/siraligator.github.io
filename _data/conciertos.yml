@@ -1,6 +1,6 @@
 - year: 2019
   months:
-   - month: marzo
+    - month: marzo
       days:
         - day: 16
           shows:
@@ -8,25 +8,25 @@
               done: no
 - year: 2018
   months:
-   - month: septiembre
+    - month: septiembre
       days:
         - day: 21
           shows:
             - name: programa rtve. clásicos irreverentes. el álamo (M)
               done: si
-   - month: septiembre
+    - month: septiembre
       days:
         - day: 11
           shows:
             - name: gala Movistar+ #0. Museo Nacional de Arte Reina Sofía. Madrid
               done: si
-   - month: mayo
+    - month: mayo
       days:
         - day: 06
           shows:
             - name: Galileo Galilei. Madrid
               done: si
-   - month: marzo
+    - month: marzo
       days:
         - day: 18
           shows:
@@ -40,7 +40,7 @@
           shows:
             - name: Hotel Plaza. Madrid
               done: si
-   - month: febrero
+    - month: febrero
       days:
         - day: 03
           shows:
@@ -48,31 +48,31 @@
               done: si
 - year: 2017
   months:
-   - month: noviembre
+    - month: noviembre
       days:
         - day: 11
           shows:
             - name: Galileo Galilei. Madrid
               done: si
-   - month: agosto
+    - month: agosto
       days:
         - day: 05
           shows:
             - name: Mairie de Saint Florine (Auvergne - F)
               done: si
-   - month: julio
+    - month: julio
       days:
         - day: 29
           shows:
             - name: SAC & Banda. Mataró (B)
               done: si
-   - month: marzo
+    - month: marzo
       days:
         - day: 11
           shows:
             - name: Madrid Brass Festival. CC La esfera. Alcobendas (M)
               done: si
-   - month: enero
+    - month: enero
       days:
         - day: 27
           shows:
@@ -80,19 +80,19 @@
               done: si
 - year: 2016
   months:
-   - month: octubre
+    - month: octubre
       days:
         - day: 01
           shows:
             - name: Parroquia de San Carlos Borromeo. Vallekas (M)
               done: si
-   - month: agosto
+    - month: agosto
       days:
         - day: 20
           shows:
             - name: Auditorio de Corral de Almaguer (TO)
               done: si
-   - month: julio
+    - month: julio
       days:
         - day: 15
           shows:
