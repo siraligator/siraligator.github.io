@@ -587,6 +587,86 @@
               done: si
 - year: 2005
   months:
+    - month: mayo
+      days:
+        - day: 14
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+        - day: 13
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+        - day: 12
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+        - day: 11
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+        - day: 10
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+        - day: 09
+          shows:
+            - name: Metal Ligero. Auditorio de Majadahonda
+              done: si
+    - month: marzo
+      days:
+        - day: 12
+          shows:
+            - name: Tuve Tuba por un Tubo. Auditorio de Las Roxas (M)
+              done: si
+        - day: 11
+          shows:
+            - name: Tuve Tuba por un Tubo. Auditorio de Las Roxas (M)
+              done: si
+        - day: 10
+          shows:
+            - name: Tuve Tuba por un Tubo. Auditorio de Las Roxas (M)
+              done: si
+        - day: 05
+          shows:
+            - name: Daimiel (CR)
+              done: si
+    - month: enero
+      days: 
+        - day: 12
+          shows:
+            - name: Presentación del 2º disco. ALGO HAY. Sala Sol. Madrid
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si
     - month:
       days:
         - day: 
@@ -595,6 +675,38 @@
               done: si
 - year: 2004
   months:
+    - month: diciembre
+      days:
+        - day: 18
+          shows:
+            - name: Tuve Tuba por un Tubo. Tres Cantos (M)
+              done: si
+    - month: julio
+      days:
+        - day: 31
+          shows:
+            - name: Plaza mayor de Pozuelo de Alarcón (M)
+              done: si
+        - day: 30
+          shows:
+            - name: Poliesportiu de La Canyada de Biar (A)
+              done: si
+    - month: junio
+      days:
+        - day: 16
+          shows:
+            - name: Toledo
+              done: si
+        - day: 05
+          shows:
+            - name: teatro Principal de Almagro (CR)
+              done: si
+    - month:
+      days:
+        - day: 
+          shows:
+            - name: "Pendiente de completar"
+              done: si  
     - month:
       days:
         - day: 
