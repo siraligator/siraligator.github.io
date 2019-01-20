@@ -4,7 +4,7 @@
       days:
         - day: 16
           shows:
-            - name: Lobiano Kultur Gunea · Ermúa . (BI)
+            - name: "Lobiano Kultur Gunea · Ermúa . (BI)"
               done: no
 - year: 2018
   months:
@@ -12,39 +12,39 @@
       days:
         - day: 21
           shows:
-            - name: programa rtve. clásicos irreverentes. el álamo (M)
+            - name: "programa rtve. clásicos irreverentes. el álamo (M)"
               done: si
     - month: septiembre
       days:
         - day: 11
           shows:
-            - name: gala Movistar+ #0. Museo Nacional de Arte Reina Sofía. Madrid
+            - name: "gala Movistar+ #0. Museo Nacional de Arte Reina Sofía. Madrid"
               done: si
     - month: mayo
       days:
         - day: 06
           shows:
-            - name: Galileo Galilei. Madrid
+            - name: "Galileo Galilei. Madrid"
               done: si
     - month: marzo
       days:
         - day: 18
           shows:
-            - name: Auditorio de Peralta. Festival del Trombón de Peralta (N). Madrid
+            - name: "Auditorio de Peralta. Festival del Trombón de Peralta (N). Madrid"
               done: si
         - day: 16-18
           shows:
-            - name: curso Festival del Trombón de Peralta (N). Madrid
+            - name: "curso Festival del Trombón de Peralta (N). Madrid"
               done: si
         - day: 15
           shows:
-            - name: Hotel Plaza. Madrid
+            - name: "Hotel Plaza. Madrid"
               done: si
     - month: febrero
       days:
         - day: 03
           shows:
-            - name: Carcel de Soto del real (M)
+            - name: "Carcel de Soto del real (M)"
               done: si
 - year: 2017
   months:
@@ -52,31 +52,31 @@
       days:
         - day: 11
           shows:
-            - name: Galileo Galilei. Madrid
+            - name: "Galileo Galilei. Madrid"
               done: si
     - month: agosto
       days:
         - day: 05
           shows:
-            - name: Mairie de Saint Florine (Auvergne - F)
+            - name: "Mairie de Saint Florine (Auvergne - F)"
               done: si
     - month: julio
       days:
         - day: 29
           shows:
-            - name: SAC & Banda. Mataró (B)
+            - name: "SAC & Banda. Mataró (B)"
               done: si
     - month: marzo
       days:
         - day: 11
           shows:
-            - name: Madrid Brass Festival. CC La esfera. Alcobendas (M)
+            - name: "Madrid Brass Festival. CC La esfera. Alcobendas (M)"
               done: si
     - month: enero
       days:
         - day: 27
           shows:
-            - name: Mira Teatro. Pozuelo de Alarcón. (M)
+            - name: "Mira Teatro. Pozuelo de Alarcón. (M)"
               done: si
 - year: 2016
   months:
@@ -84,25 +84,25 @@
       days:
         - day: 01
           shows:
-            - name: Parroquia de San Carlos Borromeo. Vallekas (M)
+            - name: "Parroquia de San Carlos Borromeo. Vallekas (M)"
               done: si
     - month: agosto
       days:
         - day: 20
           shows:
-            - name: Auditorio de Corral de Almaguer (TO)
+            - name: "Auditorio de Corral de Almaguer (TO)"
               done: si
     - month: julio
       days:
         - day: 15
           shows:
-            - name: Castillo de Miranda de Ebro (BU)
+            - name: "Castillo de Miranda de Ebro (BU)"
               done: si
     - month: abril
       days:
         - day: 16
           shows:
-            - name: Alive. Madrid
+            - name: "Alive. Madrid"
               done: si
 - year: 2015
   months:
@@ -110,45 +110,45 @@
       days:
         - day: 23
           shows:
-            - name: Parc de la Goleta. Tavernes de Valldigna (V)
+            - name: "Parc de la Goleta. Tavernes de Valldigna (V)"
               done: si
     - month: julio
       days:
         - day: 08
           shows:
-            - name: ITF'2015 València. 23:59h Hall del Auditori de La Rambleta. Bulevar Sur esq. Pío IX (St. Marcel·li)
+            - name: "ITF'2015 València. 23:59h Hall del Auditori de La Rambleta. Bulevar Sur esq. Pío IX (St. Marcel·li)"
               done: si
-       - day: 07
+        - day: 07
           shows:
-            - name: curso de música de Cobisa (TO)
+            - name: "curso de música de Cobisa (TO)"
               done: si
-       - day: 05
+        - day: 05
           shows:
-            - name: 3e rencontre nationalle de la Association des Trombonistes Françaises. Marseille (FR)
+            - name: "3e rencontre nationalle de la Association des Trombonistes Françaises. Marseille (FR)"
               done: si
     - month: mayo
       days:
         - day: 23
           shows:
-            - name: Teatro Auditorio del Espinar (SG). 
-              done: si  
-   - month: abril
+            - name: "Teatro Auditorio del Espinar (SG). "
+              done: si
+    - month: abril
       days:
         - day: 25
           shows:
-            - name: madrid brass. Homenaje a Pedro Botías. Escuela de Música de Alcorcón (M)
-              done: si  
-   - month: febrero
+            - name: "madrid brass. Homenaje a Pedro Botías. Escuela de Música de Alcorcón (M)"
+              done: si
+    - month: febrero
       days:
         - day: 16
           shows:
-            - name: Conservatorio J. Turina c/ ceuta, 8, madrid
-              done: si  
+            - name: "Conservatorio J. Turina c/ ceuta, 8, madrid"
+              done: si
     - month: enero
       days:
         - day: 16
           shows:
-            - name: el intruso. c/ augusto figueroa 3, madrid
+            - name: "el intruso. c/ augusto figueroa 3, madrid"
               done: si
 - year: 2014
   months:
@@ -156,57 +156,57 @@
       days:
         - day: 19
           shows:
-            - name: semana de sta. cecilia en el conservatorio de leganés (M), 20horas
+            - name: "semana de sta. cecilia en el conservatorio de leganés (M), 20horas"
               done: si
     - month: octubre
       days:
         - day: 8-11
           shows:
-            - name: Music China '2014. Shanghai (CHI)
+            - name: "\"Music China '2014. Shanghai (CHI)\""
               done: si
     - month: septiembre
       days:
         - day: 15
           shows:
-            - name: Azotea del Circulo de BBAA. Alcalá, 42. Madrid
+            - name: "Azotea del Circulo de BBAA. Alcalá, 42. Madrid"
               done: si
     - month: septiembre
       days:
         - day: 6, 7, 10, 12, 13, 14
           shows:
-            - name: World Basketball Championship Spain '14
+            - name: "\"World Basketball Championship Spain '14\""
               done: si
     - month: agosto
       days:
         - day: 9
           shows:
-            - name: Albalat de la Ribera V. Festes d'Agost
+            - name: "Albalat de la Ribera V. Festes d'Agost"
               done: si
     - month: julio
       days:
         - day: 18
           shows:
-            - name: Biar A. Jornadas trombonísticas 2i2q
+            - name: "Biar A. Jornadas trombonísticas 2i2q"
               done: si
     - month: julio
       days:
         - day: 05
           shows:
-            - name: Salas de los Infantes
-              done: si          
+            - name: "Salas de los Infantes"
+              done: si
     - month: junio
       days:
         - day: 15
           shows:
-            - name: Guadalix de la Sierra M. Sound imagination.
+            - name: "Guadalix de la Sierra M. Sound imagination."
               done: si
         - day: 14
           shows:
-            - name: Majadahonda
+            - name: "Majadahonda"
               done: si
         - day: 13
           shows:
-            - name: Móstoles
+            - name: "Móstoles"
               done: si
 - year: 2013
   months:
@@ -214,41 +214,41 @@
       days:
         - day: 16
           shows:
-            - name: Ciudad Rodrigo
+            - name: "Ciudad Rodrigo"
               done: si    
     - month: noviembre
       days:
         - day: 15
           shows:
-            - name: Galileo Galilei. Galileo, 100. Madrid
+            - name: "Galileo Galilei. Galileo, 100. Madrid"
               done: si    
     - month: septiembre
       days:
         - day: 28
           shows:
-            - name: Satisfaction RRbar. Madrid
+            - name: "Satisfaction RRbar. Madrid"
               done: si 
     - month: julio
       days:
         - day: 04
           shows:
-            - name: SBALZ Alzira (V)
+            - name: "SBALZ Alzira (V)"
               done: si    
     - month: mayo
       days:
         - day: 14
           shows:
-            - name: Tempo Club. Madrid
+            - name: "Tempo Club. Madrid"
               done: si   
     - month: abril
       days:
         - day: 20
           shows:
-            - name: Abierto Bar, Tarancón (CU)
+            - name: "Abierto Bar, Tarancón (CU)"
               done: si    
         - day: 06
           shows:
-            - name: Sala Oxido, Guadalajara
+            - name: "Sala Oxido, Guadalajara"
               done: si  
 - year: 2012
   months:
@@ -256,43 +256,43 @@
       days:
         - day: 03
           shows:
-            - name: tempo Club madrid 
+            - name: "tempo Club madrid "
               done: si
     - month: octubre
       days:
         - day: 06
           shows:
-            - name: Leganés 
+            - name: "Leganés "
               done: si
     - month: julio
       days:
         - day: 07
           shows:
-            - name: Banyeres de Mariola (A) 
+            - name: "Banyeres de Mariola (A) "
               done: si
     - month: junio
       days:
         - day: 19
           shows:
-            - name: Fujitsu, Ifema Madrid 
+            - name: "Fujitsu, Ifema Madrid "
               done: si
     - month: junio
       days:
         - day: 26
           shows:
-            - name: Fujitsu, palau de congressos BCN 
+            - name: "Fujitsu, palau de congressos BCN "
               done: si
     - month: mayo
       days:
         - day: 23
           shows:
-            - name: Alegria de Iruña, Pamplona
+            - name: "Alegria de Iruña, Pamplona"
               done: si    
     - month: mayo
       days:
         - day: 26
           shows:
-            - name: clermont ferrand (FR)
+            - name: "clermont ferrand (FR)"
               done: si    
 - year: 2011
   months:
@@ -300,45 +300,45 @@
       days:
         - day: 10
           shows:
-            - name: teatre de la Banda Primitiva de Llíria
+            - name: "teatre de la Banda Primitiva de Llíria"
               done: si
     - month: noviembre
       days:
         - day: 09
           shows:
-            - name: Galileo Galilei, Madrid
+            - name: "Galileo Galilei, Madrid"
               done: si
     - month: octubre
       days:
         - day: 22
           shows:
-            - name: manifestación por la enseñanza publica, plaza Jacinto Benavente, Madrid
+            - name: "manifestación por la enseñanza publica, plaza Jacinto Benavente, Madrid"
               done: si
         - day: 14
           shows:
-            - name: tempo Club madrid
+            - name: "tempo Club madrid"
               done: si
     - month: agosto
       days:
         - day: 20
           shows:
-            - name: Pinedo (V)
+            - name: "Pinedo (V)"
               done: si
     - month: junio
       days:
         - day: 15
           shows:
-            - name: Homenaje a Iabel Perez laRosa, Sala Manuel de Falla, RCSMMadrid
+            - name: "Homenaje a Iabel Perez laRosa, Sala Manuel de Falla, RCSMMadrid"
               done: si
         - day: 04
           shows:
-            - name: Figaro café, Madrid
+            - name: "Figaro café, Madrid"
               done: si    
     - month: abril
       days:
         - day: 21
           shows:
-            - name: lille (FR)
+            - name: "lille (FR)"
               done: si    
 - year: 2010
   months:
@@ -346,63 +346,63 @@
       days:
         - day: 16
           shows:
-            - name: tempo Club Madrid
+            - name: "tempo Club Madrid"
               done: si
     - month: julio
       days:
         - day: 08
           shows:
-            - name: Zumaia (Gi)
+            - name: "Zumaia (Gi)"
               done: si
     - month: julio
       days:
         - day: 30
           shows:
-            - name: Beniganim (V)
+            - name: "Beniganim (V)"
               done: si
         - day: 29
           shows:
-            - name: Bienal Buñol (V)
+            - name: "Bienal Buñol (V)"
               done: si
         - day: 28
           shows:
-            - name: Aielo de Malferit (V)
+            - name: "Aielo de Malferit (V)"
               done: si
         - day: 24
           shows:
-            - name: rafelguaraf (V)
+            - name: "rafelguaraf (V)"
               done: si
     - month: junio
       days:
         - day: 19
           shows:
-            - name: Xabia (A)
+            - name: "Xabia (A)"
               done: si
     - month: mayo
       days:
         - day: 29
           shows:
-            - name: Grabación III disco. Galileo Galilei, Madrid
+            - name: "Grabación III disco. Galileo Galilei, Madrid"
               done: si
         - day: 28
           shows:
-            - name: Metal Ligero. Fundación J. March, Madrid, RNE radioClásica
+            - name: "Metal Ligero. Fundación J. March, Madrid, RNE radioClásica"
               done: si
         - day: 08
           shows:
-            - name: Barbú, Madrid
+            - name: "Barbú, Madrid"
               done: si
     - month: marzo
       days:
         - day: 04
           shows:
-            - name: Lemon, Madrid
+            - name: "Lemon, Madrid"
               done: si
     - month: enero
       days:
         - day: 29
           shows:
-            - name: metal Ligero, Salamanca
+            - name: "metal Ligero, Salamanca"
               done: si
 - year: 2009
   months:
@@ -410,11 +410,11 @@
       days:
         - day: 11-18 
           shows:
-            - name: new international expo center Shanghai (CHI)
+            - name: "new international expo center Shanghai (CHI)"
               done: si
         - day: 10 
           shows:
-            - name: barbú Madrid
+            - name: "barbú Madrid"
               done: si
 - year: 2008
   months:
@@ -422,75 +422,75 @@
       days:
         - day: 19
           shows:
-            - name: conservatorio de Leganés (M)
+            - name: "conservatorio de Leganés (M)"
               done: si
     - month: octubre
       days:
         - day: 29
           shows:
-            - name: Vestas Daimiel (CR)
+            - name: "Vestas Daimiel (CR)"
               done: si
         - day: 24
           shows:
-            - name: pozuelo de alarcón (M)
+            - name: "pozuelo de alarcón (M)"
               done: si
         - day: 18
           shows:
-            - name: morata de tajuña (M)
+            - name: "morata de tajuña (M)"
               done: si
         - day: 07
           shows:
-            - name: la Bolsa de Madrid
+            - name: "la Bolsa de Madrid"
               done: si
     - month: julio
       days:
         - day: 24
           shows:
-            - name: villanueva del pardillo (M)
+            - name: "villanueva del pardillo (M)"
               done: si
         - day: 11
           shows:
-            - name: villamayor de santiago (CU)
+            - name: "villamayor de santiago (CU)"
               done: si
         - day: 06
           shows:
-            - name: toro (ZA)
+            - name: "toro (ZA)"
               done: si
     - month: junio
       days:
         - day: 28
           shows:
-            - name: FEMUKA el espinar (SG)
+            - name: "FEMUKA el espinar (SG)"
               done: si
     - month: mayo
       days:
         - day: 27
           shows:
-            - name: la Sal madrid
+            - name: "la Sal madrid"
               done: si
     - month: abril
       days:
         - day: 24
           shows:
-            - name: conservatorio Requena (V)
+            - name: "conservatorio Requena (V)"
               done: si
         - day: 17
           shows:
-            - name: Hotel Palace madrid
+            - name: "Hotel Palace madrid"
               done: si
         - day: 15
           shows:
-            - name: conservatorio Elda (A)
+            - name: "conservatorio Elda (A)"
               done: si
     - month: febrero
       days:
         - day: 24
           shows:
-            - name: Consolat de Mar Benaguasil (V)
+            - name: "Consolat de Mar Benaguasil (V)"
               done: si
         - day: 23
           shows:
-            - name: cox (A)
+            - name: "cox (A)"
               done: si
 - year: 2007
   months:
@@ -498,38 +498,38 @@
       days:
         - day: 15
           shows:
-            - name: seseña (TO)
+            - name: "seseña (TO)"
         - day: 09
           shows:
-            - name: tobarra (CR)
+            - name: "tobarra (CR)"
         - day: 08
           shows:
-            - name: cantalejo (SG)
+            - name: "cantalejo (SG)"
         - day: 01
           shows:
-            - name: sonseca (TO)
+            - name: "sonseca (TO)"
     - month: noviembre
       days:
         - day: 10
           shows:
-            - name: ugena (TO)
+            - name: "ugena (TO)"
     - month: octubre
       days:
         - day: 20
           shows:
-            - name: bargas (TO)
+            - name: "bargas (TO)"
               done: si
     - month: septiembre
       days:
         - day: 27
           shows:
-            - name: Albacete
+            - name: "Albacete"
               done: si
     - month: julio
       days:
         - day: 21
           shows:
-            - name: navajas (CS)
+            - name: "navajas (CS)"
               done: si
         - day: 10-11
           shows:
@@ -537,25 +537,25 @@
               done: si
         - day: 07
           shows:
-            - name: San Fermín en Madrid
+            - name: "San Fermín en Madrid"
               done: si
     - month: mayo
       days:
         - day: 31
           shows:
-            - name: la Sal madrid
+            - name: "la Sal madrid"
               done: si
     - month: abril
       days:
         - day: 17
           shows:
-            - name: teatro de la Primitiva de Llíria (V)
+            - name: "teatro de la Primitiva de Llíria (V)"
               done: si
     - month: marzo
       days:
         - day: 16
           shows:
-            - name: majadahonda (M)
+            - name: "majadahonda (M)"
               done: si
 - year: 2006
   months:
@@ -563,27 +563,27 @@
       days:
         - day: 13
           shows:
-            - name: medina del campo (VA)
+            - name: "medina del campo (VA)"
               done: si
         - day: 22
           shows:
-            - name: la Unió. Llíria
+            - name: "la Unió. Llíria"
               done: si
     - month: noviembre
       days:
         - day: 25
           shows:
-            - name: San rafael (SG)
+            - name: "San rafael (SG)"
               done: si
         - day: 19
           shows:
-            - name: SAC a banda. Banda Municipal de Vitoria
+            - name: "SAC a banda. Banda Municipal de Vitoria"
               done: si
     - month: octubre
       days:
         - day: 23
           shows:
-            - name: galileo galilei Madrid
+            - name: "galileo galilei Madrid"
               done: si
 - year: 2005
   months:
@@ -591,7 +591,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 2004
   months:
@@ -599,7 +599,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 2003
   months:
@@ -607,7 +607,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 2002
   months:
@@ -615,7 +615,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 2001
   months:
@@ -623,7 +623,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 2000
   months:
@@ -631,7 +631,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 1999
   months:
@@ -639,7 +639,7 @@
       days:
         - day: 
           shows:
-            - name: Pendiente de completar
+            - name: "Pendiente de completar"
               done: si
 - year: 1998
   months:
@@ -647,101 +647,101 @@
       days:
         - day: 18
           shows:
-            - name: casa de la Cultura Guadassuar (València)
+            - name: "casa de la Cultura Guadassuar (València)"
               done: si
         - day: 7
           shows:
-            - name: Tuve Tuba por un tubo. Iglesia de Villaviciosa de Odón. (Madrid)
+            - name: "Tuve Tuba por un tubo. Iglesia de Villaviciosa de Odón. (Madrid)"
               done: si
     - month: noviembre
       days:
         - day: 13
           shows:
-            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+            - name: "grabación del 1er disco en directo. Ritmo & Compás, Madrid."
               done: si
         - day: 12
           shows:
-            - name: grabación del 1er disco en directo. Ritmo & Compás, Madrid.
+            - name: "grabación del 1er disco en directo. Ritmo & Compás, Madrid."
               done: si
     - month: octubre
       days:
         - day: 28
           shows:
-            - name: café La Unión. Madrid.
+            - name: "café La Unión. Madrid."
               done: si
         - day: 22
           shows:
-            - name: inauguración de EneBa EneBa, Jacometrezzo, Madrid
+            - name: "inauguración de EneBa EneBa, Jacometrezzo, Madrid"
               done: si
         - day: 17
           shows:
-            - name: Clamores Jazz. Madrid
+            - name: "Clamores Jazz. Madrid"
               done: si
         - day: 16
           shows:
-            - name: Clamores Jazz. Madrid
+            - name: "Clamores Jazz. Madrid"
               done: si
         - day: 15
           shows:
-            - name: Clamores Jazz. Madrid
+            - name: "Clamores Jazz. Madrid"
               done: si
     - month: septiembre
       days:
         - day: 24
           shows:
-            - name: Tuve Tuba por un tubo. Fest. Int. de Música Cont. d’Alacant. T. Principal
+            - name: "Tuve Tuba por un tubo. Fest. Int. de Música Cont. d’Alacant. T. Principal"
               done: si
         - day: 22
           shows:
-            - name: Tuve Tuba por un tubo. Ensayo gen. Aud. T. L. De Victoria del RCSMM.
+            - name: "Tuve Tuba por un tubo. Ensayo gen. Aud. T. L. De Victoria del RCSMM."
               done: si
     - month: julio
       days:
         - day: 26
           shows:
-            - name: II Verbena de Santiago. Plaza de Santiago. Madrid. 1998 07 26
+            - name: "II Verbena de Santiago. Plaza de Santiago. Madrid. 1998 07 26"
               done: si
         - day: 19
           shows:
-            - name: V Curso int. de música de Cocentàina. Palau Comtal de Cocentàina. (A)
+            - name: "V Curso int. de música de Cocentàina. Palau Comtal de Cocentàina. (A)"
               done: si
         - day: 14
           shows:
-            - name: I semana de la música en Talavera. (TO)
+            - name: "I semana de la música en Talavera. (TO)"
               done: si
     - month: junio
       days:
         - day: 27
           shows:
-            - name: Clausura del curso universitario 1997-98. R.U. Alonso de Ojeda. Cuenca.
+            - name: "Clausura del curso universitario 1997-98. R.U. Alonso de Ojeda. Cuenca."
               done: si
     - month: mayo
       days:
         - day: 28
           shows:
-            - name: VII decena da música do Ferrol Teatro do Ferrol (C)
+            - name: "VII decena da música do Ferrol Teatro do Ferrol (C)"
               done: si
         - day: 28
           shows:
-            - name: II matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+            - name: "II matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)"
               done: si
         - day: 28
           shows:
-            - name: I matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)
+            - name: "I matiné para los escolares del Ferrol (7aDM) Teatro do Ferrol (C)"
               done: si
         - day: 21
           shows:
-            - name: RCSMM. “El Retorno” Real Conservatorio Superior de Música de Madrid
+            - name: "RCSMM. “El Retorno” Real Conservatorio Superior de Música de Madrid"
               done: si
     - month: abril
       days:
         - day: 2
           shows:
-            - name: Clinic Jupiter/ Meinl Euromúsica- Garijo. Alcorcón.
+            - name: "Clinic Jupiter/ Meinl Euromúsica- Garijo. Alcorcón."
               done: si
         - day: 1
           shows:
-            - name: Concierto/ Cena con Euromúsica-GARIJO Hotel Holiday Inn. Madrid.
+            - name: "Concierto/ Cena con Euromúsica-GARIJO Hotel Holiday Inn. Madrid."
               done: si
 
 - year: 1997
@@ -750,63 +750,63 @@
       days:
         - day: 4
           shows:
-            - name: VII Curs int. de música de Castelló de la Ribera. (V).
+            - name: "VII Curs int. de música de Castelló de la Ribera. (V)."
               done: si
     - month: julio
       days:
         - day: 19
           shows:
-            - name: IV Curso int. de música de Cocentàina. Palau Comtal de Cocentàina.
+            - name: "IV Curso int. de música de Cocentàina. Palau Comtal de Cocentàina."
               done: si
         - day: 8
           shows:
-            - name: Conferencia int. de tubas, “Verso il milennio” Riva di Garda. Italia.
+            - name: "Conferencia int. de tubas, “Verso il milennio” Riva di Garda. Italia."
               done: si
     - month: mayo
       days:
         - day: 16
           shows:
-            - name: despedida de soltero de Elies y Lourdes. Café La Unión. Madrid.
+            - name: "despedida de soltero de Elies y Lourdes. Café La Unión. Madrid."
               done: si
     - month: abril
       days:
         - day: 11
           shows:
-            - name: pedagógico en el colegio Virgen del Bosque (Villaviciosa)
+            - name: "pedagógico en el colegio Virgen del Bosque (Villaviciosa)"
               done: si
     - month: marzo
       days:
         - day: 21
           shows:
-            - name: La Fontana de Oro. Madrid con Sam Pilafian
+            - name: "La Fontana de Oro. Madrid con Sam Pilafian"
               done: si
         - day: 14
           shows:
-            - name: St. Patrick en Madrid. Salón de Columnas del Círculo de BBAA. Madrid
+            - name: "St. Patrick en Madrid. Salón de Columnas del Círculo de BBAA. Madrid"
               done: si
         - day: 5
           shows:
-            - name: La Fontana de Oro. Madrid
+            - name: "La Fontana de Oro. Madrid"
               done: si
         - day: 2
           shows:
-            - name: Video para C+. RCSMM
+            - name: "Video para C+. RCSMM"
               done: si
     - month: febrero
       days:
         - day: 8
           shows:
-            - name: concierto Benéfico por el Zaire. Auditorio de Conde Duque. Madrid.
+            - name: "concierto Benéfico por el Zaire. Auditorio de Conde Duque. Madrid."
               done: si
     - month: enero
       days:
         - day: 15
           shows:
-            - name: café-Concierto La Fídula
+            - name: "café-Concierto La Fídula"
               done: si
         - day: 13
           shows:
-            - name: maqueta de Los Semprini Estudios Animal Records
+            - name: "maqueta de Los Semprini Estudios Animal Records"
               done: si
 
 - year: 1996
@@ -815,85 +815,89 @@
       days:
         - day: 16
           shows:
-            - name: Aquí Arriba. Alcalá de Henares
+            - name: "Aquí Arriba. Alcalá de Henares"
               done: si
     - month: noviembre
       days:
         - day: 28
           shows:
-            - name: Aquí Arriba. Alcalá de Henares
+            - name: "Aquí Arriba. Alcalá de Henares"
               done: si
         - day: 20
           shows:
-            - name: Auditorio Manuel de Falla. RCSMM.
+            - name: "Auditorio Manuel de Falla. RCSMM."
               done: si
         - day: 14
           shows:
-            - name: café La Unión. Madrid.
+            - name: "café La Unión. Madrid."
               done: si
         - day: 6
           shows:
-            - name: café-Concierto La Fídula / Telediario 2
+            - name: "café-Concierto La Fídula / Telediario 2"
               done: si
     - month: agosto
       days:
         - day: 2
           shows:
-            - name: Dust. Llíria. (V)
+            - name: "Dust. Llíria. (V)"
               done: si
         - day: 1
           shows:
-            - name: VI Curs int. de música de Castelló de la Ribera. (V)
+            - name: "VI Curs int. de música de Castelló de la Ribera. (V)"
               done: si
     - month: julio
       days:
         - day: 31
           shows:
-            - name: Traffic. Polinya de Xuquer 1996 07 31
+            - name: "Traffic. Polinya de Xuquer 1996 07 31"
               done: si
     - month: junio
       days:
         - day: 8
           shows:
-            - name: Primer encuentro mundial de aligators. Pub “Gowlins” Lliría (V)
+            - name: "Primer encuentro mundial de aligators. Pub “Gowlins” Lliría (V)"
               done: si
         - day: 3
           shows:
-            - name: “party a gogo” disco de Los Imposibles Estudios Animal Records
+            - name: "“party a gogo” disco de Los Imposibles Estudios Animal Records"
               done: si
     - month: mayo
       days:
         - day: 30
           shows:
-            - name: RCSMM Auditorio Manuel de Falla. RCSMM.
+            - name: "RCSMM Auditorio Manuel de Falla. RCSMM."
               done: si
         - day: 19
           shows:
-            - name: Feria de la Música’1996. Pabellón de cristal de la Casa de Campo. Madrid
+            - name: "Feria de la Música’1996. Pabellón de cristal de la Casa de Campo. Madrid"
               done: si
         - day: 18
           shows:
-            - name: Feria de la Música’1996. Video para IMEFE Casa de Campo. Madrid
+            - name: "Feria de la Música’1996. Video para IMEFE Casa de Campo. Madrid"
               done: si
     - month: abril
       days:
         - day: 25
           shows:
-            - name: presentación del "arrós al forn" + mario. café la unión
+            - name: "presentación del \"arrós al forn\" + mario. café la unión"
               done: si
     - month: febrero
       days:
         - day: 10
           shows:
-            - name: grabación de la maqueta. estudios box, madrid
+            - name: "grabación de la maqueta. estudios box, madrid"
               done: si
     - month: enero
       days:
         - day: 28
           shows:
-            - name: el caray
+            - name: "el caray"
               done: si
+- year: 1995
+  months:
+    - month: diciembre
+      days:
         - day: 15
           shows:
-            - name: concierto de navidad cuarteto caray + dani. café la unión, madrid
+            - name: "concierto de navidad cuarteto caray + dani. café la unión, madrid"
               done: si
