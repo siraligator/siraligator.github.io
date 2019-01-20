@@ -700,19 +700,134 @@
               done: si
 - year: 2000
   months:
-    - month:
+    - month: noviembre
       days:
-        - day: 
+        - day: 21
           shows:
-            - name: "Pendiente de completar"
+            - name: Conservatorio Profesional de Música de Ciudad Real
+              done: si
+        - day: 12
+          shows:
+            - name: Festival de Otoño de la CAM Teatro COliseo Carlos III de San Lorenzo del Escorial (M)
+              done: si
+    - month: octubre
+      days:
+        - day: 19
+          shows:
+            - name: 2º aniversario del Eneba. Madrid
+              done: si
+    - month: septiembre
+      days:
+        - day: 22
+          shows:
+            - name: Plaza Mayor de Moralzarzal (M)
+              done: si
+    - month: julio
+      days:
+        - day: 06
+          shows:
+            - name: curso de música de Alcázar de San Juan (CR)
+              done: si
+        - day: 02
+          shows:
+            - name: SAC Classic. San Martín de Valdeiglesias. (M)
+              done: si
+    - month: junio
+      days:
+        - day: 06
+          shows:
+            - name: Semana de Música de Fuencarral (M)
+              done: si
+    - month: marzo
+      days:
+        - day: 12
+          shows:
+            - name: Pabellón de RTVE. Expoocio. IFEMA. Madrid
+              done: si
+        - day: 11
+          shows:
+            - name: Pabellón de RTVE. Expoocio. IFEMA. Madrid
+              done: si
+    - month: febrero
+      days:
+        - day: 07
+          shows:
+            - name: Tuve Tuba por un Tubo. (2 funciones) Auditorio nacional de Música de Madrid
+              done: si
+    - month: enero
+      days:
+        - day: 18
+          shows:
+            - name: ciclo martes/música Teatro de la Diputación de Málaga
               done: si
 - year: 1999
   months:
-    - month:
+    - month: diciembre
+      days:
+        - day: 16
+          shows:
+            - name: XVII aniversario de La Unión. café La Únión. Madrid
+              done: si
+    - month: noviembre
       days:
         - day: 
           shows:
-            - name: "Pendiente de completar"
+            - name: video V aniversario de Madrid Directo de Telemadrid c/ Preciados. Madrid
+              done: si
+    - month: octubre
+      days:
+        - day: 11
+          shows:
+            - name: presentación del disco En DIrecto. FNAC. Madrid
+              done: si
+    - month: julio
+      days:
+        - day: 08
+          shows:
+            - name: I curso de Música de Medina del Campo (VA)
+              done: si
+    - month: mayo
+      days:
+        - day: 05
+          shows:
+            - name: VIII decena da música do Ferrol. Teatro do Ferrol (C)
+              done: si
+          shows:
+            - name: VIII decena da música do Ferrol. (2 matinés) Teatro do Ferrol (C)
+              done: si
+    - month: mayo
+      days:
+        - day: 02
+          shows:
+            - name: programa Sorpresa Sorpresa Antena 3. Madrid
+              done: si
+    - month: abril
+      days:
+        - day: 08
+          shows:
+            - name: Europa FM. Hemisfèric de la C. de les Arts i les Ciencies de València
+              done: si
+    - month: marzo
+      days:
+        - day: 17
+          shows:
+            - name: presentación mini aligator. Euromúsica Garijo
+              done: si
+        - day: 16
+          shows:
+            - name: Euromúsica Garijo. Hotel Holiday Inn. Plaza de España, Madrid
+              done: si
+    - month: febrero
+      days:
+        - day: 21
+          shows:
+            - name: Curs Internacional de Música de Benidorm
+              done: si
+    - month: enero
+      days:
+        - day: 02
+          shows:
+            - name: RTVE-Concierto en familia: Tuve Tuba por un tubo. Teatro Monumental de Madrid
               done: si
 - year: 1998
   months:
