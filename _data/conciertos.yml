@@ -499,20 +499,25 @@
         - day: 15
           shows:
             - name: "seseña (TO)"
+              done: si
         - day: 09
           shows:
             - name: "tobarra (CR)"
+              done: si
         - day: 08
           shows:
             - name: "cantalejo (SG)"
+              done: si
         - day: 01
           shows:
             - name: "sonseca (TO)"
+              done: si
     - month: noviembre
       days:
         - day: 10
           shows:
             - name: "ugena (TO)"
+              done: si
     - month: octubre
       days:
         - day: 20
