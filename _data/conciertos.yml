@@ -1,27 +1,155 @@
+- year: 2019
+  months:
+   - month: marzo
+      days:
+        - day: 16
+          shows:
+            - name: Lobiano Kultur Gunea · Ermúa . (BI)
+              done: no
+- year: 2018
+  months:
+   - month: septiembre
+      days:
+        - day: 21
+          shows:
+            - name: programa rtve. clásicos irreverentes. el álamo (M)
+              done: si
+   - month: septiembre
+      days:
+        - day: 11
+          shows:
+            - name: gala Movistar+ #0. Museo Nacional de Arte Reina Sofía. Madrid
+              done: si
+   - month: mayo
+      days:
+        - day: 06
+          shows:
+            - name: Galileo Galilei. Madrid
+              done: si
+   - month: marzo
+      days:
+        - day: 18
+          shows:
+            - name: Auditorio de Peralta. Festival del Trombón de Peralta (N). Madrid
+              done: si
+        - day: 16-18
+          shows:
+            - name: curso Festival del Trombón de Peralta (N). Madrid
+              done: si
+        - day: 15
+          shows:
+            - name: Hotel Plaza. Madrid
+              done: si
+   - month: febrero
+      days:
+        - day: 03
+          shows:
+            - name: Carcel de Soto del real (M)
+              done: si
+- year: 2017
+  months:
+   - month: noviembre
+      days:
+        - day: 11
+          shows:
+            - name: Galileo Galilei. Madrid
+              done: si
+   - month: agosto
+      days:
+        - day: 05
+          shows:
+            - name: Mairie de Saint Florine (Auvergne - F)
+              done: si
+   - month: julio
+      days:
+        - day: 29
+          shows:
+            - name: SAC & Banda. Mataró (B)
+              done: si
+   - month: marzo
+      days:
+        - day: 11
+          shows:
+            - name: Madrid Brass Festival. CC La esfera. Alcobendas (M)
+              done: si
+   - month: enero
+      days:
+        - day: 27
+          shows:
+            - name: Mira Teatro. Pozuelo de Alarcón. (M)
+              done: si
+- year: 2016
+  months:
+   - month: octubre
+      days:
+        - day: 01
+          shows:
+            - name: Parroquia de San Carlos Borromeo. Vallekas (M)
+              done: si
+   - month: agosto
+      days:
+        - day: 20
+          shows:
+            - name: Auditorio de Corral de Almaguer (TO)
+              done: si
+   - month: julio
+      days:
+        - day: 15
+          shows:
+            - name: Castillo de Miranda de Ebro (BU)
+              done: si
+    - month: abril
+      days:
+        - day: 16
+          shows:
+            - name: Alive. Madrid
+              done: si
 - year: 2015
   months:
+    - month: agosto
+      days:
+        - day: 23
+          shows:
+            - name: Parc de la Goleta. Tavernes de Valldigna (V)
+              done: si
     - month: julio
       days:
         - day: 08
           shows:
             - name: ITF'2015 València. 23:59h Hall del Auditori de La Rambleta. Bulevar Sur esq. Pío IX (St. Marcel·li)
-              done: no
-        - day: 05
+              done: si
+       - day: 07
           shows:
-            - name: 3e rencontre nationalle de la Association des trombonistes françaises. Marseille (FR)
-              done: no
-    - month: febrero
+            - name: curso de música de Cobisa (TO)
+              done: si
+       - day: 05
+          shows:
+            - name: 3e rencontre nationalle de la Association des Trombonistes Françaises. Marseille (FR)
+              done: si
+    - month: mayo
+      days:
+        - day: 23
+          shows:
+            - name: Teatro Auditorio del Espinar (SG). 
+              done: si  
+   - month: abril
+      days:
+        - day: 25
+          shows:
+            - name: madrid brass. Homenaje a Pedro Botías. Escuela de Música de Alcorcón (M)
+              done: si  
+   - month: febrero
       days:
         - day: 16
           shows:
             - name: Conservatorio J. Turina c/ ceuta, 8, madrid
-              done: no  
+              done: si  
     - month: enero
       days:
         - day: 16
           shows:
             - name: el intruso. c/ augusto figueroa 3, madrid
-              done: no
+              done: si
 - year: 2014
   months:
     - month: noviembre
